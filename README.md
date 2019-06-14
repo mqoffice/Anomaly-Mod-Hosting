@@ -1,4 +1,4 @@
-# OpenBullet-Pures-Mod
+# OpenBullet-Anomaly-Mod
 
 This is the GitHub for the OpenBullet Mod i make and manage. (Formerly Paradox Mod).
 
