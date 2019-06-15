@@ -6,3 +6,6 @@ Changed Decrypter to save as .anom instead of .loli
 Fixed crashing issue when Proxy setting files are missing
 New updater released
 Removed unfinished variables
+------HotFix Updates-----
+Added Checks in ComboTools to remove Crashing
+Redid Splashscreen to make it look nicer
