@@ -1,11 +1,8 @@
-Changelog: Version 1.2.9
-Changed name from Modded to Anomaly
-Added acceptance of .anom configs (.loli still supported)
-Added creation of .anom configs (Not fans of underage Hentai)
-Changed Decrypter to save as .anom instead of .loli
-Fixed crashing issue when Proxy setting files are missing
-New updater released
-Removed unfinished variables
-------HotFix Updates-----
-Added Checks in ComboTools to remove Crashing
-Redid Splashscreen to make it look nicer
+Changelog: Version 1.3
+The Community Repo is out now. You should see Configs from the "Remote" Category in your Config List.
+
+Please give feed back on the Configs so we can start Adding / Removing them.
+
+Crashing Issues are fixed in the ComboTools, And you can no longer split a file by 0.
+
+General Improvements across the board, Now time to work more on OCR and adding some of Ruri's Updates.
