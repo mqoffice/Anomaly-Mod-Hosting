@@ -1,10 +1,9 @@
-Changelog: Version 1.3
-The Community Repo is out now. You should see Configs from the "Remote" Category in your Config List.
+Changelog: Version 1.3.1
 
-Please give feed back on the Configs so we can start Adding / Removing them.
+Added 30 Minute Timer to Force Config Sources refresh.
 
-Crashing Issues are fixed in the ComboTools, And you can no longer split a file by 0.
+Added Abillity to Filter out Configs Downloaded from Public Repo.
 
-LoliX Decrypter no longer crashes if no file is chosen.
+Implemented Timestamp in sources tab to show when Repo was last updated.
 
-General Improvements across the board, Now time to work more on OCR and adding some of Ruri's Updates.
+Fixed issue with public Repo Copying itself and Duplicated Configs.
